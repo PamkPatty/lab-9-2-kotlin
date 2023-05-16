@@ -103,7 +103,8 @@
             android:text="@string/clear"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" />
+            app:layout_constraintStart_toStartOf="parent"
+            android:tag="binding_4"                                   />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
          
