@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\SIDE B\\University_4kurs\\my2\\ANDROID\\androidLAB9-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_tracker.xml",
+        "source": "D:\\SIDE B\\University_4kurs\\my2\\ANDROID\\androidLAB9-2\\app\\src\\main\\res\\layout\\fragment_sleep_tracker.xml"
+    },
+    {
+        "merged": "D:\\SIDE B\\University_4kurs\\my2\\ANDROID\\androidLAB9-2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sleep_quality.xml",
+        "source": "D:\\SIDE B\\University_4kurs\\my2\\ANDROID\\androidLAB9-2\\app\\src\\main\\res\\layout\\fragment_sleep_quality.xml"
+    }
+]
